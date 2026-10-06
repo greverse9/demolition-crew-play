@@ -3,4 +3,4 @@
 Top-down twin-stick destruction shooter. **Play: https://greverse9.github.io/demolition-crew-play/**
 
 This repository only holds the production build (published by `npm run deploy` from a private source repo).
-Build v0.8.0 · source f422d43
+Build v0.9.0 · source 118cac2
